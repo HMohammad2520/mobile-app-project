@@ -1,0 +1,8 @@
+{
+  "name": "Air Alfa",
+  "description": "A web-based tribute to the classic Atari River Raid game, enhanced with a suite of Gemini AI tools including a conversational Co-Pilot (Live API), Strategy Analyzer (Vision & Search), and Asset Studio (Veo & Image Gen). Note: This is a React Web App, not a native APK.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
