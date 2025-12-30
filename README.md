@@ -21,8 +21,9 @@
 
 شما میتوانید با استفاده از لینک زیر نسخه **Web** برنامه را تست کنید.
 
-
-[Play](https://airalfacyber.netlify.app/)
+<p align="center">
+   <a href="https://airalfacyber.netlify.app/">Play</a>
+</p>
 
 ---
 
